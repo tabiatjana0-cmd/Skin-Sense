@@ -5,7 +5,7 @@
 
 -----
 *PROJECT OVERVIEW & MOTIVATION*  :
-1. **The problem** : Fragmented Skincare market. People buy products without medical advice *Have dermatological consultation for help*.
+1. **The problem** : Fragmented Skincare market. People buy products without medical advice (*Have dermatological consultation for help*).
 2. **The solution** : A "One-Stop-Shop" that combines professional medical consultation with a trusted pharmacy store.
 3. **Core value** : Bridging the gap between the patient, the dermatologist, and the delivery service.
 
