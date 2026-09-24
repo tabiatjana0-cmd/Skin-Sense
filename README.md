@@ -38,7 +38,8 @@
 
 -----
 *KEY TECHNICAL FEATURE* :
-1 **AI skin scan** : An automated tool to analyse skin types(Oily, Dry, Normal) to recommend the best routine.
+1 **AI skin scan** : An automated tool to analyse skin types(Oily, Dry, Normal) to recommend the best routine.<img width="888" height="678" alt="Screenshot 2026-09-24 093449" src="https://github.com/user-attachments/assets/47839283-9f14-44b9-8036-a89e2ab0d835" />
+
 2. **Secure payment gateway**: Seamless checkout process with total amount calculations.
 3. **Live chat system** : Automated creation of secure chat rooms between doctors and patients upon appointment confirmation.  
 4. **Secure QR logistics** : A dynamic QR code generated for every order that only activates once the delivery guy marks "Arrival" at the customer's location.
@@ -54,5 +55,34 @@
 **COMPUTER VISION UPGRADE** : Moving from basic scanning to Deep Learning models (CNN) to detect specific skin diseases
 **GLOW TRACKING** : An AI-driven "Before & After" diary that tracks skin progress over time using image recognition 
 **Virtual try-on** : Using augmented reality (AR) to see how products might affect skin radiance virtually
+
+*Some videos from the website*
+
+
+https://github.com/user-attachments/assets/5d3e4945-ff41-4956-adac-795a9a7503b5
+
+
+
+https://github.com/user-attachments/assets/71efe01a-9516-49c9-b9d1-a36b58f775b0
+
+
+
+https://github.com/user-attachments/assets/89e18570-cf08-4518-b2a0-1f37920d9d17
+
+
+
+https://github.com/user-attachments/assets/bf2aef41-682c-4301-85bc-e4f64bb38845
+
+
+
+https://github.com/user-attachments/assets/69cfafc7-06c9-40e4-9dd7-5540377d79f2
+
+
+
+https://github.com/user-attachments/assets/ee473d33-1bb6-43b8-b859-0f8834282a82
+
+
+
+
 
 
